@@ -46,8 +46,10 @@ a{
   margin: 5px;
 }
 hr{
+  border: none;
   color:#22cf7e;
   background-color: #22cf7e;
+  height: 2px;
 }
 /* header */
 .header{
