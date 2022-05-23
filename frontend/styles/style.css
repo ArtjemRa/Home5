@@ -51,6 +51,9 @@ hr{
   background-color: #22cf7e;
   height: 2px;
 }
+.button-1:hover{
+  background-color: #7abe9f;
+}
 /* header */
 .header{
   padding: 30px;
