@@ -195,7 +195,13 @@ hr{
   background-repeat: no-repeat;
   background-position: center;
   background-color: #0505054d;
-
+}
+.container-1 div.litle{
+  position: relative;
+  top: 110px;
+  font-size: 13px;
+  color: #ffffff;
+  text-align: center;
 }
 .container-1 h4{
   position: absolute;
