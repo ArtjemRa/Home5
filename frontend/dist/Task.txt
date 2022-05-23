@@ -1,0 +1,23 @@
+Colors:
+#22cf7e
+#ffffff
+#000000
+#0505054d
+
+Box-shadow:
+0px 10px 12px -7px rgba(0, 0, 0, .5)
+1px 0px 50px -7px rgba(0, 0, 0, .7) – для header
+
+Font-family:
+‘Lato’, sans-serif;
+
+max-width: 1480px;
+transition: all .5s;
+transform: translateY(-3px);
+
+Images:
+https://www.southendsmiles.com/wp-content/uploads/2020/09/AdobeStock_174544330.jpeg
+
+https://thumbs.dreamstime.com/b/potted-dracaena-isolated-6398679.jpg
+
+https://images.unsplash.com/photo-1550147760-44c9966d6bc7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80
